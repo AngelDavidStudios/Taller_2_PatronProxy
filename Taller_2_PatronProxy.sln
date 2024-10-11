@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller_2_PatronProxy", "Tal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.Models", "Server.Models\Server.Models.csproj", "{AA5DD5BA-5245-49E5-BB92-5F0F21658DD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.Proxy", "Server.Proxy\Server.Proxy.csproj", "{620E21CA-BAB0-4E4D-A3C9-CCA543FCE9C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AA5DD5BA-5245-49E5-BB92-5F0F21658DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA5DD5BA-5245-49E5-BB92-5F0F21658DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA5DD5BA-5245-49E5-BB92-5F0F21658DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620E21CA-BAB0-4E4D-A3C9-CCA543FCE9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620E21CA-BAB0-4E4D-A3C9-CCA543FCE9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620E21CA-BAB0-4E4D-A3C9-CCA543FCE9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620E21CA-BAB0-4E4D-A3C9-CCA543FCE9C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
