@@ -1,0 +1,6 @@
+@Taller_2_PatronProxy_HostAddress = http://localhost:5094
+
+GET {{Taller_2_PatronProxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
